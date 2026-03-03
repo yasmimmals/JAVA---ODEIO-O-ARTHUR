@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class TesteSmartTv {
+public class TesteSmartTv {
+
 }
